@@ -1,5 +1,5 @@
 add_library(resource_core STATIC
-        src/resource.cpp
+        resource.cpp
         include/lab4/resource/resource.hpp
 )
 
